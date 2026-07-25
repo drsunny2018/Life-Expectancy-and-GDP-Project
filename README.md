@@ -23,3 +23,4 @@ This project aims to analyze data on GDP and life expectancy from the World Heal
 > ** Major Insight:**
 > *  Zimbabwe has the lowest average Life Expectancy and GDP among the selected nations.
 > *  There is weak correlation between GDP and Life Expectancy (**correlation coefficient = 0.34**)
+
