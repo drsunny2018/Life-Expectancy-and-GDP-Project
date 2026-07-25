@@ -1,4 +1,3 @@
-# Life-Expectancy-and-GDP-Project
-Exploratory Data Analysis with Visualisations using pandas, numpy, matplotlib, and seaborn libraries in Python
-Using seaborn and Matplotlib to create visualizations
-Preprocess, explore, and analyze data
+# Life-Expectancy-and-GDP
+## Project Overview
+This project aims to analyze data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
